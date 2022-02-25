@@ -1,0 +1,466 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech and deportment of Col. Iames Turner at his execution in Leaden-Hall-street January 21. 1663 Who was condemned for felony and burglary, in breaking up the house and robbing of Mr. Francis Tryon merchant, living in Limestreet, London. Licensed.</title>
+            <author>Turner, James, d. 1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63892</idno>
+            <idno type="STC">Wing T3293A</idno>
+            <idno type="STC">ESTC R222426</idno>
+            <idno type="EEBO-CITATION">99833604</idno>
+            <idno type="PROQUEST">99833604</idno>
+            <idno type="VID">38082</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38082)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2067:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech and deportment of Col. Iames Turner at his execution in Leaden-Hall-street January 21. 1663 Who was condemned for felony and burglary, in breaking up the house and robbing of Mr. Francis Tryon merchant, living in Limestreet, London. Licensed.</title>
+                  <author>Turner, James, d. 1664.</author>
+               </titleStmt>
+               <extent>3, 2-14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William Godbid for Nath. Brook at the Angel in Cornhill, and Henry Marsh at the Princes Arms in Chancery-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663 [i.e 1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The publication year is given according to Lady Day dating.</note>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>With an advertisement on pg. 14.</note>
+                  <note>Imperfect; Cropped at head.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials (Burglary) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38082:1"/>
+            <pb facs="tcp:38082:1"/>
+            <p>THE SPEECH AND DEPORTMENT OF Col. Iames Turner At his Execution in <hi>Leaden-Hall-ſtreet January</hi> 21. 1663.</p>
+            <p>Who was Condemned for Felony and Burglary, in Breaking up the Houſe and Robbing of Mr. FRANCIS TRYON Merchant, living in <hi>Limeſtreet,</hi> LONDON.</p>
+            <p>
+               <hi>LICENSED.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>William Godbid</hi> for <hi>Nath. Brook</hi> at the <hi>Angel</hi> in <hi>Cornhill,</hi> and <hi>Henry Marſh</hi> at the <hi>Princes Arms</hi> in <hi>Chancery-lane.</hi> 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:38082:2"/>
+            <pb n="3" facs="tcp:38082:2"/>
+            <stage>About Eleven a Clock Coll. <hi>Turner</hi> (attended with Mr. <hi>Ordinary</hi> of <hi>New<g ref="char:EOLhyphen"/>gate</hi> and another Miniſter) was drawn in a Cart to a Gibbit erected in <hi>Leaden-hall-ſtreet,</hi> at <hi>Lime-ſtreet</hi> end; where coming, Col. <hi>Turner</hi> called the Execationer to him, told him that his friends were deſirous of all his Clothes, and that in Conſideration thereof he gave him <hi>50 s.</hi> and <hi>2 s. 6 d.</hi> to drink; and about <hi>15 s.</hi> to the Serjeants and Yeomen, attending to ſee his Body and Clothes delivered to one Mrs. <hi>Smith</hi> there. And ſtanding in the Cart ſaid as followeth:</stage>
+            <p>
+               <seg rend="decorInit">S</seg>IR <hi>Richard Ford,</hi> and you the other Mr. Sheriff, and all you Gentlemen: I am come hither to pay that debt I owe, and that every man owes to Nature; 'tis the juſt hand of God upon me for my ſins, and there is no man hath done me wrong in it; and truely it is my Sins, and the Greatneſſe of my ſins (and that I am very ſenſible of) hath brought me hither; and the greateſt ſin that troubles me and lies upon me (which I hope the Blood of Jeſus Chriſt, nay, I am Confident the Blood of Jeſus Chriſt hath waſhed all my ſins away) is that ſin which I was much addicted to, and that was the ſin of Prophaneneſſe; of Blaſpheming God, of taking his Name in vain. It is truth, I muſt not onely accuſe my ſelf, but in ſome ſenſe give you the truth of my Conſcience. I never heard any man or woman, or what ever they were, ſwear in my life, but I did tremble to hear them. For keeping of Company with Gentlemen of Honour (they were men of quality, though that were an ill quality in them) was the occaſion of it. I never kept Company with any poor baſe inferiour People; with any Theif, or any ſuch like baſe perſon in all my life, but fled from them, and avoided them, till this accident; truely thoſe poor men engaged in it, I muſt free them; I brought them into this buſineſſe clearly and freely; and I beſeech you, Mr. Sheriffs, as I am a dying man, that you will help thoſe people in this buſineſſe; Poor ſilly men. As I was telling you, for that great ſin of Swearing: Keeping Company with perſons that did ſwear, I did get a habit of ſwearing, though I hated it and loathed it, when I obſerved it in my ſelf, and yet may be did it again, forgetting preſently and not obſerving, being of a haſty nature. It was my raſhneſſe and my inconſiderateneſſe that hath brought me hither: Gentlemen, it is expected by all the City, and by all the world that knows me, that I ſhould make ſome great and notorious confeſſion; It is Truth, I muſt, and freely do here confeſſe, as I ſaid before, that 'tis my ſins in General, and that ſin of Blaſpheming God's Name; I do charge my ſelf particularly with that as the occaſion of bringing me hither; as for the Fact it ſelf, I do tell ye it was my own act, my own contrivance, and the poor ſouls that are yonder, knew nothing of it.</p>
+            <p>
+               <pb n="2" facs="tcp:38082:3"/>Gentlemen, you will live when I am gone, there is my two Sons, I here declare, as I expect mercy by and by, at the hands of my Saviour and my God, they are as innocent as any perſon that looks upon me: For the youngeſt, my Son <hi>Ely,</hi> he never knew or heard of one penny of the money or buſineſſe at all; therefore he is clear, he was in his bed that night it was done, and in the morning it was removed from my houſe; for the Elder, he never knew of any moneys, or any thing of it, only I did tell him, that it was a Merchants money that was broke, and that I would ſecure it for his Wife and Children; ſo that he was clearly innocent of any thing of the Fact, of the Robbery of the Houſe, knew not that it was Mr. <hi>Tryon</hi>'s Money; but did carry that Money with me to <hi>Tower-Hill,</hi> as I bid him; ſo that he is as innocent as the Younger; You underſtand me, Mr. Sheriffs; if you bid your Servant take ſo much money, carry it, and diſpoſe of it, as you direct him, what is it to him how you came by that money? So that I ſay, this elder Son, he is (I ſpeak in the preſence of God) as free as the other.</p>
+            <p>I do beg and beſeech you (Mr. Sheriffs) in the bowels of tender mercy and compaſſion, that you would go to the Lord Maior, to the Court of Aldermen, that theſe two poor young men may be diſcharg'd; let them not lye there until the next Seſſions among Theives and Murderers, for they will be utterly undone. They are come from the Loynes of good Parents, my Father was an ancient Reverend Divine, a Parſon within a 11. miles of this Town, a godly Miniſter, 40 odd years Miniſter of one Pariſh, no man more beloved then he, a man of charity and for peace, never ſuffered them to go to Law; he was Juſtice of Peace amongſt them, Me<g ref="char:EOLhyphen"/>diator for them; if any poor wanted any thing they came to him, he relie<g ref="char:EOLhyphen"/>ved them, he did all the Poors buſineſſe, and compoſed the differences of the rich likewiſe; I am the Son of that Father, though an unfortunate Son. My Wife was a Gentlewomans Daughter in <hi>Dorſetſhire,</hi> her Mother had a great portion, and is yet living; they are of the Family of the <hi>Foyles,</hi> 8000 <hi>l.</hi> the old King had of her Uncle, which was lent: they were perſons of quality. I ſay, theſe Children, they came from the Loynes of good perſons. This I ſpeak, in reference that you will take that fatherly care that theſe two poor Boys may be turned out of Priſon. Their Mother hath nothing to ſupport them; ſuppoſe it your own Wifes caſe; add not affliction to affliction; reſtore her Children to her this Night; let me beg it, that God may be prais'd and glorified in the truth of all things. Will you promiſe it, Mr. Sheriffs, that you will endevour it?</p>
+            <sp>
+               <speaker>Sir <hi>Richard Ford.</hi>
+               </speaker>
+               <p>I do; I have been ready at all times to promiſe you any thing which was in my power to perform: but ask not that which is not in my power to grant; you deſire they may be diſcharged to night.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>That's but comparatively, as ſoon as poſſible.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Rich. Ford.</hi>
+               </speaker>
+               <p>I do promiſe you that this that you have declar'd con<g ref="char:EOLhyphen"/>cerning
+<pb n="3" facs="tcp:38082:3"/>
+your Sons, ſhall be communicated to the proper Judges, and I will endevour that they may be put out of our Goal.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Richard Rives.</hi>
+               </speaker>
+               <p>And I will uſe my endevours in the thing.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>Pray do, they know nothing of it, pray put them out, my Wife will want them, ſhe hath no comfort left, and this will ruine her.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Richard Rives.</hi>
+               </speaker>
+               <p>We will do our endevours; proceed on.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>I have done, that's for the Children; then for <hi>William Turner,</hi> what he did, he did at my inſtigation; he acted this at my entreaty, it was wholly by my direction, therefore let the poor man be likewiſe diſcharged, if there be no other thing againſt him but this fault.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Richard Ford.</hi>
+               </speaker>
+               <p>We will promiſe that we will take all occaſions to give an intimation to the Lord Chief Juſtice what you have declared, in extenuating of his crime, as he was a hireling of yours.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>I have told you that it was my ſins that hath brought me hither; and truly I muſt deal really with you, this Nation is very full of ſin, of crying ſins, of ſins, that without Gods wonderful mercies the Land will ſuddenly mourn by his hand; I have every year expected the ſweeping plague to come and take away two thirds of the Nation for the ſins that lye upon us; and truely notwithſtanding the Miniſters of God do preach, and call, and crye aloud, yet no body regards them. Truely from the Magiſtrate to the very Peaſant there is abundance of neglect to the true Service and fear of God, that my Soul has bled and groan'd within me as I have gone up and down the Streets, and as I have lain in my bed. And I muſt ingeniouſly confeſs to you, that I have not once or twice, nor a hundred times, but a thouſand times, wiſhed my ſelf diſſolved, and in another world. I have been ſick of it, not for any want, but with the meer trouble, the diſlike that did ſo diſpleaſe me, to ſee all manner of buſineſſe in Tumults and Diſorders, and ſin, and all manner of wick<g ref="char:EOLhyphen"/>edneſſe: That truely I have had no pleaſure theſe latter years in the world; indeed I have not. I have to my poor Wife ſaid many a hundred times, Lord God that thou wert in thy grave and I too, were it not for theſe poor Children; truely I could beg it of God, ſeeing all people are in Combuſtion, none tied in love and amity. When I was a Boy there was no ſuch doings; my Father, I told you, was a Miniſter, there was eight or ten Gentlemen, adjoyning Families, who kept a houſe of Hoſpitality, loving friendſhip, peace and quietneſſe; but now there is no ſuch thing in the world. It is a new world, a world of malice and difference; and 'tis too blame that Brethren do not hang together in unity.</p>
+               <p>It is expected that I ſhould declare here, as a dying man, ſomewhat to free my ſelf from thoſe Aſperſions, Accuſations, and Calumnies that have been laid upon me; thoſe marks with black coals that People have laid upon me; I do declare to you, there is a great many of ſcandals
+<pb n="4" facs="tcp:38082:4"/>
+that lie upon me. I ſhall not Juſtifie my ſelf at all, but rather accuſe my ſelf, that I am, as St. <hi>Paul</hi> ſaith, <hi>The greateſt of Sinners.</hi> But for thoſe things that are laid upon me, I muſt clear my Family and my Reputa<g ref="char:EOLhyphen"/>tion, as I can before God and in Jeſus Chriſt. It is laid upon me that I ſhould take 200 <hi>l.</hi> of Dr. <hi>Hewyt</hi>'s Lady for to aſſiſt her in the helping her Husband, that was, in the getting him a Pardon or Repreive. To that I anſwer (I know not whether I ſhewed you, Mr. Sheriffs my Ladies Certificate or no, I heard not of this buſineſſe till within theſe two nights) I never heard of her nor her Husband in ſuch a manner; no, I would not have had that ſin mixed with my blood, not for ten thouſand worlds; I ſhould have thought when ever it had entered into my Cogi<g ref="char:EOLhyphen"/>tations, I ſhould have thought my ſelf eternally loſt. But about that I ſent Mr. <hi>Gray</hi> of <hi>Black-Friers,</hi> who rode 32. miles the other night, and he hath brought a Certificate under her Ladiſhips hand to the King; which Certificate if they will go to my Wife, they may have it and Print it. She writes ſhowing it to the Kings moſt Excellent Majeſty, that ſhe was informed that <hi>James Turner</hi> Gent. a Priſoner in <hi>Newgate,</hi> is accuſed for taking 200 <hi>l.</hi> of her towards the Repreiving of her Husband; ſhe doth declare ſhe never knew him nor heard of him, therefore ſhe is bound in Conſcience to free him; and ſo ſhe humbly takes her leave; this is at<g ref="char:EOLhyphen"/>teſted by that Gentleman, with an Affidavit under the hand of Sir <hi>John Brampſton</hi> Knight: She got a Letter from Secretary <hi>Thurlow,</hi> wherein he writes, and ſets forth all the buſineſſe, that one Col. <hi>Whetton</hi> had 235 <hi>l.</hi> of my Lady <hi>Hewyt</hi> to procure this buſineſſe; and that <hi>Whetton</hi> did pre<g ref="char:EOLhyphen"/>tend that he had given <hi>Thurlow</hi> a hundred pound of it to that purpoſe, which he there under his hand denyed, that he ever received one penny directly or indirectly; ſo that <hi>Whetton</hi> was the perſon clearly accuſed; and ſhe ſent me word ſhe is ſuing him for the money; So for that I hope I have vindicated my ſelf before God and the World.</p>
+               <p>In the ſecond place, there is another calumny thrown upon me, and that is, that I ſhould cozen or deceive the King that now is of ſome money when I was beyond Sea with him; truely, it is well known to thouſands of the World, I was never out of <hi>England,</hi> never beyond Sea with the King, never cozened him of a penny; that I have ſerved Him and His Father with all the ſubſtance that I had, with my blood, and with all my fortune and goods, as a hearty Subject ſhould, and I pray God receive my Soul but with a drop of his mercy, ſo ſure as I ſerved the old King, and prayed for him, and loved him.</p>
+               <p>The firſt Commiſſion that ever I had, was eldeſt Captain of Horſe to <hi>William</hi> Marquiſs of <hi>Newcaſtle</hi> in his own Regiment; I gave him the Troop, fourſcore and ſeventeen men well Hors'd, I never received one penny ad<g ref="char:EOLhyphen"/>vance for the ſaid Troop, and but one Weeks pay for my ſelf and Offi<g ref="char:EOLhyphen"/>cers, and three Weeks pay for my Troopers in all my Life, not a
+<pb facs="tcp:38082:4"/>
+penny more; I ſerved him faithfully four years or thereabouts; I was a Priſoner at <hi>London-houſe,</hi> at <hi>York,</hi> in the <hi>Tower,</hi> at the Council of State, the Court Marſhal, the Council of War of <hi>Oliver</hi>'s; I was a Priſoner at <hi>Luton</hi> in <hi>Bedfordſhire;</hi> bringing the King up from <hi>Newark</hi> to <hi>Oxford</hi> I was wounded, ſhot in the Neck, and taken Priſoner; and 'tis very well known by Mr. <hi>William Cotton,</hi> who is one of the Gentle<g ref="char:EOLhyphen"/>men Harbingers of the Kings, he is the ancienteſt to this King, and hath ſerved his Father in that Office, it was his fortune to be hard by when I was ſhot, who was then a ſtranger to me; but he being one of the Kings Ser<g ref="char:EOLhyphen"/>vants, and hearing a Lieut. Col. of the Kings was ſlain, he came in; after I was ſhot I was crept into a hedge among briars and thorns, ſo deep that he was forced to cut a way to come at me, and ſo drew me out, or I had dyed there: I was Priſoner at <hi>Luton,</hi> ſo to St. <hi>Albans,</hi> where I lay in Cure in the Compter, till it coſt me my firſt penny reckoning 60. odd pounds in gold; they truſted me and took my word, till I could ſend to <hi>York</hi> where my wife lived, nineteen miles beyond <hi>York;</hi> when I was able to ride I was brought to Town, put into <hi>London-Houſe,</hi> where I abided and paid my Ranſom, no exchange would be allowed; the King that is dead (of bleſſed memory) ſent three exchanges for me, His own Trumpet, Sir <hi>Marmaduke Langdale</hi>'s Trumpet, and my own Trumpet. The Com<g ref="char:EOLhyphen"/>mittee at St. <hi>Albans</hi> returned the Trumpeters word that I was dead, for my wounds were mortal, and ſo I beleive they did think I was dead. Af<g ref="char:EOLhyphen"/>terwards I had command of more then one Troop, and I was Lieutenant Col. to Sir <hi>John Preſton,</hi> and was eldeſt Captain to the Marquiſs of <hi>New<g ref="char:EOLhyphen"/>caſtle.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Richard Ford.</hi>
+               </speaker>
+               <p>I have no pleaſure to interrupt you, if you have any thing to ſay that may fit you for your change, as marks (for avoiding theſe inconveniences) to the people—</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>I have done, Sir <hi>Richard.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Richard Ford.</hi>
+               </speaker>
+               <p>I do not apprehend this a proper work for a dying man, in good earneſt, methinks it is not a proper work for you to give this Narrative now of the Affairs in the Army.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>I have but a few words more, I have wholly told you that it was my own contrivance, and no bodies elſe that I come hither, and therefore I do juſtly ſuffer here by the hand of God and juſtice and I do deſire all Chriſtian People that either hear me, or ſee me, or ſhall hear of me, that they will take warning by me; it is the firſt offence of this nature that ever I had to do withal in my life, God is my witneſs; as I ſaid before, I never knew a Thief or diſhoneſt man but I avoided them: But I ſay, and I could wiſh with all my ſoul, and I deſire it earneſtly, that all people would take warning by me this day, and to avoid as much as may be, all ſins in general; and I muſt declare to you likewiſe, that if it had pleaſed God that two of the Officers had not met me, and ar<g ref="char:EOLhyphen"/>reſted
+<pb facs="tcp:38082:5"/>
+me in St. <hi>Mary Axe</hi> between two and three of the Clock, and carried me here to the <hi>Hoop</hi> Tavern, where they ſtaid me, Mr. <hi>Tryon</hi> had had every penny worth of his Goods and Money, and not loſt a far<g ref="char:EOLhyphen"/>thing, nor a hair of his head; but God forgive them. A great deaf of blame hath lain upon me about thoſe Villains, who where half drunk, and beat Mr. <hi>Tryon:</hi> I ſay he had had all his Goods again; God above, that heats me, knows my ſoul, it was not intended to rob him or to hurt him, it was to engratiate my ſelf; the reaſons I told him yeſterday. He is the worſe man the beſt part of 10000 <hi>l.</hi> ſince his Wife dyed, and I had late<g ref="char:EOLhyphen"/>ly diſcovered which way and how: I have told him of the perſon, but this is not a pla<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to name him, or ſpeak of theſe things; I hope God will give him wiſdome to avoid dangers, and to make good of what I told him yeſterday; a worſe thing will come; for he will be robb'd indeed if he have not a care: He ſhould have been robb'd about a year ſince, and he did imploy me to enquire after it, and diſcover it. I have given him warning ſeveral times: He is an honeſt brave Gentleman, a good Chriſti<g ref="char:EOLhyphen"/>an, and an honeſt charitable man. But, Mr. Sheriffs, aſſure your ſelves, ſo ſure as I am going to heaven, I ſhall be there in glory, ſo ſure had Mr. <hi>Tryon</hi> (if I had not met with theſe two fooliſh timerous Officers) have had his goods and money again, there never had one word of this buſineſs been known: 'Twas a ſad fate, that theſe two fellows out of a little fear ſhould be the occaſion of my coming hither; but God forgive them; <hi>Stubs</hi> and <hi>Lyon</hi> I mean; theſe two villains, I have no body to thank for my blood but them; and yet do I free them, and freely forgive them: and I forgive the whole world, as freely as I deſire God and Chriſt Jeſus ſhould forgive me. Mr. Sheriffs, are you ſatisfied in this? would you have me ſay any more touching the fact?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>It is ſatisfaction to us, if you are ſatisfied your ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>This morning as I was coming out of the Priſon, to add ſcan<g ref="char:EOLhyphen"/>dal to ſcandal, one came and charged me I ſhould clear my ſelf about a fire in <hi>Lothbury</hi> in the new buildings, whether I had any hand in that; the Lord Jeſus Chriſt knows my ſoul, till even now they askt me the queſtion, I never thought of it, but was then heartily ſorry, and in my bed when I heard of it.</p>
+               <p>Anorber ſent me a Letter, but I tore it, one <hi>John Marſhal,</hi> touching ſome money that was loſt in <hi>Coleman-ſtreet;</hi> he might aſwell have ask'd the perſon to be born, as to have askt me, for I knew not of it. And one brought a Deed of one <hi>Katharine,</hi> I forgot her other name, alack I know nothing of it. There was another large paper put into my hands, touch<g ref="char:EOLhyphen"/>ing a man that dyed in my houſe, one <hi>Turner</hi> a tall proper Gentleman, a Clothier of <hi>Kent,</hi> he came to my houſe and deſired me to furniſh one <hi>Daintry</hi> with Five hundred pounds, which he had a place at the Cuſtome-Houſe for; this <hi>Turner</hi> was a ſtranger to me, only a name<g ref="char:EOLhyphen"/>ſake,
+<pb facs="tcp:38082:5"/>
+it is thought as by the paper was hinted, that he ſhould have ſomething put in his drink, which ſhould occaſion his death; he drank nothing at my houſe more than what my Wife and ſelf, and two or three honeſt Gentlemen that were there. He told my Wife once, Coſin (ſaith he) I am very ill, pray give me a cup of your water; he had drank a glaſs or two of Wine, there was but one Bottle among five of them; and ſoon after, this Gentleman fell aſleep with his hand on his cheek, and never waked again; he died of an Appoplexy or Lethargy, as the Coroner found it; I muſt clear my ſelf of this, be<g ref="char:EOLhyphen"/>cauſe I have received a Paper, it was at the end thereof hinted, whe<g ref="char:EOLhyphen"/>ther I did know if <hi>Daintry</hi> was not concerned in this buſineſs; the man could not put any thing into our drink ſure; I have heard of your Spaniſh tricks, but I muſt free <hi>Daintry</hi> of that, according as I underſtand it: He was to do <hi>Daintry</hi> the curteſie, and ſurely he would not ſo reward him. I believe <hi>Daintry</hi> was as free as anybody; but the Jury and Coroner did return that he died of Gods viſitation, a natural diſeaſe, and I hope I have ſatisfied the world of that.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ordinary</hi> of <hi>Newgate.</hi>
+               </speaker>
+               <p>Pray Col. <hi>Turner</hi> know you nothing of a glaſs jewel delivered to the Counteſs of <hi>Devonſhire</hi> in the room of another.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>I know nothing of ſuch a thing; I never had any Jewels of her in my life; ſhe is an honourable perſon, ſhe will not ſpeak of ſuch a thing.</p>
+               <p>I will now give account of my Faith. I have been bred up a true Proteſtant of the Primitive Church of <hi>England;</hi> my Father bred me, and inſtructed me very ſtrictly in the Law of God; I will not tell you when I came to Prentice, Ile let that alone: I am free of the Com<g ref="char:EOLhyphen"/>pany of Drapers; and I have lived civilly and honeſtly in St. <hi>Mar<g ref="char:EOLhyphen"/>tines,</hi> at the upper end of <hi>Cheap-ſide;</hi> I am ſure there is a thouſand ſorrowful ſouls, and weeping eyes for me this day.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Richard Ford.</hi>
+               </speaker>
+               <p>Pray put that little time that you have to ſpend here to good uſe, and leave off theſe relations.</p>
+            </sp>
+            <sp>
+               <speaker>Turner,</speaker>
+               <p>Have a little patience, let me ſatisfie the World of ſome particulars; I was a conſtant Church-man, tis well known to my Pa<g ref="char:EOLhyphen"/>riſhioners; I never durſt ſee a man in the Church with his Hat on, it troubled me very much: If a man comes before a Judg on Earth, he is not ſuffered to wear his Hat, much leſs ſhould they before the Ma<g ref="char:EOLhyphen"/>giſtrate of Magiſtrates, the God of Heaven.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Richard Ford.</hi>
+               </speaker>
+               <p>Hear me one word: thoſe Reverend perſons about you, methinks they ſhould admoniſh you to leave off theſe diſcourſes.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ordinaay.</hi>
+               </speaker>
+               <p>We preſs to the condemnation of a mans ſelf, that he might be juſtified in Gods ſight.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>Mr. Sheriff, I will hold you but a very little while longer<g ref="char:punc">▪</g>
+                  <pb n="8" facs="tcp:38082:6"/>
+I do here truly confeſs that I have been, as I have ſaid, a very great ſinner, guilty of all the ſins in the world.</p>
+            </sp>
+            <sp>
+               <speaker>Maſter <hi>Ordinary.</hi>
+               </speaker>
+               <p>Speak to ſome particulars.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>Pray be quiet, can ye?—Eſpecially that of Pro<g ref="char:EOLhyphen"/>phaneneſs; I am truly ſenſible, heartily ſorrowful for my ſins; and I do beg of God of his infinite Mercy, through the Mer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts of Chriſt who died for me, to waſh away all my ſins, and all the ſins of this peo<g ref="char:EOLhyphen"/>ple here preſent, and all the ſins of the whole world. I do beg, that God will open the heart of any man that ſtaggars in Faith, to confirm him. I do ſay, and pawn my Salvation upon it, That no man dare gain ſay that <hi>Jeſus Chriſt died for ſinners, of whom I am chief.</hi> That man that lays hold upon Chriſt by Faith, the Gates of Hell ſhall never prevail againſt him. Truly, I am thought to be a great Drinker, a Company-keeper: my occaſion<g ref="char:punc">▪</g> did call me to Taverns, but I bleſs God, I think there is no man, (pardon me, for I will not ſpeak it with oſtentation) I hope no man ever ſaw me diſguiſed in drink, to my knowledg, except it was when I was a Boy. I am truly, heartily, and ſincerely ſorrowful for my ſins: I do confeſs them before my God and the whole world, that the leaſt of my ſins are able to throw me into Hell; but that the blood of <hi>Jeſus Christ</hi> that doth waſh away the ſins of the whole world, hath purged and cleanſed mine. I ſay, I do here heartily, ſolemnly and wholly confeſs my ſins, and am truly ſor<g ref="char:EOLhyphen"/>rowful for them: that is my confeſſion, with more trouble of ſoul then I am able to expreſs. Here I have made my true and faithful confeſ<g ref="char:EOLhyphen"/>ſion. in the ſecond place, I have made reſtitution ſo far as in me lay; the Gentleman hath every one of his Jewels again, every far<g ref="char:EOLhyphen"/>thing-worth, nay he hath two thouſand pouds worth more then he miſſed, therefore there was no intention of Felony; but my ſad fate in meeting with thoſe two ſad Officers (God of his mercy everlaſtingly forgive them)</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ordinary.</hi>
+               </speaker>
+               <p>Expreſs your charity as to the world.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>Do not put me out of my way, I muſt go ſtep by ſtep. Firſt, I have given you my confeſſion; Secondly; I have made reſtitution, I have reſtored, all to my power: the third thing that is behind of a Chriſtian is my true and unſeigned Repentance, and my Charity to the whole world; that God that is the ſearcher of all ſecrets, that tries the reigns, that knows all the inner-parts, knows my ſoul, that I long and deſire to be with <hi>Jeſus Chriſt</hi> in glory.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ordinary.</hi>
+               </speaker>
+               <p>Which is beſt of all.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>I am in perfect charity with the whole world: It is ex<g ref="char:EOLhyphen"/>pected by ſome that I ſhould fall upon ſome perſons to recriminate on them; I ſhall not do it, the Lord God of his infinite mercy forgive
+<pb n="9" facs="tcp:38082:6"/>
+them. It was reported te his Majeſty, that on Sunday laſt I was drunk and that I abuſed this reverend perſon Mr. <hi>Ordinary;</hi> this news was brought me by ſome that were preſent when the King was told ſuch ſtories, that I was drunk, and ranted, and ſwore <hi>God <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> God ſink me,</hi> and that I had five thouſand pounds, and I would <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> par<g ref="char:EOLhyphen"/>don, and cared not for the buſineſs, and would have <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pardon when I pleaſe. This great reproach was thrown upon me to the King, and that with ſome other ſcandals has taken off the Kings affections: but this is altogether falſe; for Mr. <hi>Hicks</hi> my Landlord can tell, that on Sunday morning he would have had me drank my mornings draught, I told him No, I would not drink: I onely drank one ſmall cup of Cyder in the morning, two little glaſſes of Sack, and one glaſs of Clar<g ref="char:EOLhyphen"/>ret at dinner. I went to Church with this reverend Gentleman, where I received a great deal of comfort for my Soul<g ref="char:punc">▪</g> for which I thank him: he made a ſound Schollar-like Sermon, and fit for perſons in our condition. I did perceive they wanted a Clark, and I took upon me to officiate as Clark, and I was happy I had that opportuni<g ref="char:EOLhyphen"/>ty. I came home, and remained in my Chamber. About eight or nine a Clock, juſtice <hi>Stringer</hi> in <hi>Chancery-lane,</hi> and two or three Knights and Perſons of Quality, eight or nine in all: they had one bottle of Sack among them, of which I drank one little cup. And for the ſwearing of thoſe Oathes, I did not do it, I hate them, they were untruths, and the Lord forgive them that raiſed that ſcandal.</p>
+               <p>Sir, I muſt deſire that you would now joyn with me in Prayer, but I have forgot one thing, it is ſhort, That night the Seſſions broke up, I was put in the Hole, it is a moſt fearful, ſad, deplorable place, Hell it ſelf in Compariſon cannot be ſuch a place; there is neither Bench, Stool nor Stick for any perſon there; they lie like ſwine upon the ground, one upon another, howling and roaring; it was more terrible to me then this Death; I would humbly beg that Hole may be provided with ſome kind of boards like a Court of guard, that men may ly down upon them in eaſe; for when they ſhould be beſt pre<g ref="char:EOLhyphen"/>pared for their ends<g ref="char:punc">▪</g> they are moſt tormented, lying onely upon the ground; they were better take them and hang as ſoon as they have their Sentence.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Jackson</hi> the Keeper.</speaker>
+               <p>Seventeen out of nineteen made their eſcapes out of that Hole, they having onely a Form there.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>I did with theſe poor Souls pray heartily; none were able to pray poor creatures, two were dying; I prayed with them, comfort<g ref="char:EOLhyphen"/>ed them, aſſiſted them, and gave them five ſhillings when I came out of the Hole: now pray joyn with me in Prayer.</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:38082:7"/>
+               <speaker>Sir <hi>Rich. Ford.</hi>
+               </speaker>
+               <p>If I did think there were a Reprieve to come for you, I could be contented to ſpin out the time thus; but in good earneſt I expect none, unleſs you had an apprehenſion, you were not to die, you would not thus run to ſo many impertinencies, that me<g ref="char:EOLhyphen"/>thinks cannot fit you for death.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>Truly, I expect none; pray joyn with me in Prayer.</p>
+            </sp>
+            <floatingText xml:lang="eng" type="prayer">
+               <body>
+                  <head>HIS PRAYER.</head>
+                  <p>
+                     <hi>O</hi> Lord God Almighty, and Everlaſting Father, Maker of Heaven and Earth, and of all mankinde, and all things therein contained. I thy wretched, miſerable Creature, make bold here to proſtrate my ſelf at thy Footſtool; humbly beſeeching, that in the dolorous Paſſions of Jeſus Chriſt, thou would blot out my Tranſgreſſions. O Lord, I am covered all over with ſins and iniquities, as with Leproſie, from the crown of the head, to the ſole of the foot; and who ſhall deliver me? but the Blond of thy Son Jeſus Chriſt. O Lord God, I have had a fear of thy holy Name, a true and unfeigned love towards thee; but, O Lord, thou knoweſt when I would do good, evil is preſent with me. I am loaden with Tranſgreſſions, and the weight is too heavy for me to bear: O Lord, make my yoke eaſie, and my burden light. O Lord God, thou canſt as eaſily do, as ſpeak it; ſay but the word, and it is done. O Lord, for thy Son Jeſus ſake, bleſs with the eter<g ref="char:EOLhyphen"/>nal and everlaſting Glory in the World, and in the World to come, my Gracious King, Queen, Queen-Mother, the Duke of <hi>York,</hi> and all that Family: And that thou in thy great mercy, would make them glorious in this world, and the world to come. I deſire their poor ſouls may be happy with thee in glory. O Lord, bleſs all his Magiſtrates, from the greateſt to the leaſt; endue them with thy fear, put the Sword of Juſtice into their hands, that they may eſchue evil, and do good; root out covetouſneſs out of their hearts. O Lord God, I beg this for thy mercy ſake, to ſtrike them with ſuch a perfect fear, that though they have many of them done amiſs, that thou wilt forgive them, and let them never do ſo again. O Lord my God, bleſs the Gentry, Nobility, Magistrates of this City, as of the whole world all in general. That thou wouldſt be pleaſed to bleſs the Commonalty, guide them in the path of Jeſus Chriſt; if they are in Chriſt, they have all in all. Pray God bleſs the Tribe of <hi>Levi,</hi> the Clergy throughout the whole World, from the greateſt to the leaſt; from him that ſits on the Throne, the Arch<g ref="char:EOLhyphen"/>biſhop, to the leaſt inferior Miniſters and Parſons. Give them into their hearts, a true love, that their lives may be anſwerable to their Doctrines, and become good examples to all them that hear them. And now, O Lord, I beg of thee, that the Miniſters that thou haſt beſtowed upon this Nation,
+<pb n="11" facs="tcp:38082:7"/>
+and others that profeſs Jeſus Chriſt, may daily increaſe more and more; and that they may grow and live, and have bleſſings ſhowred down upon them, that their hearts may be filled with good things. Lord, I have known when I was a Youth, that there was not a tenth of that wickedneſs that is now committed; none heard of them; now we ſhould have grown better, we have grown worſe. Call them back, O Lord, it is as eaſie with thee, as to ſpeak. Good Lord, bleſs this Pariſh wherein I live the Miniſter and Lecturer, and all my Neighbors; and pour down a double Bleſſing of thy Spirit upon them: For my poor Family in this Pariſh, I humbly beg in the Bowels of thy Son Chriſt Jeſus, that thou wouldſt be a Husband to my wife, a Father to my childr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n; a Guide, Protector, and Director, to them all in general: Guide them, ſtrengthen them in thoſe comforts which laſt night I gave them; and that my Wife may not afflict her ſelf, but rejoyce, that God hath called me in his due time; that I am not taken away by any ſud<g ref="char:EOLhyphen"/>don death, which I always prayed againſt. O Lord, I have but a ſhort time here, but it is thy mercy that I have had time hitherto; I have de<g ref="char:EOLhyphen"/>ſerved none, O Lord. Thou too eſt away a Gentleman the other night, o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Mr. <hi>Snell,</hi> a Gentleman at the Cock in <hi>Lumbard-ſtreet,</hi> a Common Coun<g ref="char:EOLhyphen"/>cel man, who was well at dinner, and died the ſame night. O Lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d, he had ſhorter warning then I: I am bound to thee for it, although I had but a da<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. I humbly beſeech thee, to ſtand by me in this my day of trial, and moment of tribulation. O Chriſt, come in unto me, I do lay hold upon thee; I do beg that thou that haſt promiſed, That whoſoever ſhall repent of his ſins, thou wilt blot out his tranſgreſſions. Lord, I do repent with an unfeigned repentance, never to be repented of: And I beſeech thee, good God, that in and through Jeſus Chriſt, who hath waſhed away all my ſins in his Blood, that thou wilt freely receive my ſoul, when it goes from hence into bleſſedneſs.</p>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="prayer">
+               <body>
+                  <head>Some private Ejaculations.</head>
+                  <p>LOrd, I have often wiſhed to be tranſlated to thee, and thou haſt granted me my requeſt: I give thee humble and hearty thanks, O Lord God. Give me, I humbly beſeech thee, a true unfeigned ſight of my ſins: O Lord God, they are grievous, I loath them. Lord God, thou knowest I believe, and I truſt and depend upon thee; I reſt upon thy Son Jeſus Chriſt, and his Sufferings. I have none in Heaven but thee, and there is none upon Earth, that I will ſeek after, beſides thee; there is no truſt nor confidence to be put, but in thee, and thy Son Chriſt Jeſus. I commit my ſoul and body into thy arms: Lord God, guide, direct, protect, and keep, and everlaſt<g ref="char:EOLhyphen"/>ingly preſerve me. Pour down thy mercies upon all theſe thy people, and ſanctifie my afflictions to them, that they may ſet a watch upon their mouths, and their eyes, and that their tongues ſpeak no guile. Good God, forgive
+<pb n="12" facs="tcp:38082:8"/>
+me that ſin of taking thy Name in vain; make up my loſs to my Wife and children, with thy merciful pardon and forgiveneſs of their ſins: I ſhall be with thee in Paradiſe. O Lord my God, thou didſt feed my ſoul in the Sacrament, refreſhed me, comforted me in that bleſſed Ordinance. O Lord, take not thy Spirit from me, but go on with me ſtill; and Lord Jeſus receive my poor ſoul. O Lord God, what ſhall I render unto thee for all thy bene<g ref="char:EOLhyphen"/>fits? In Sacrifices thou delighteſt not, but in a broken and contrite ſpirit; O that is acceptable unto thee. The pangs of death are not terrible to me; it is thy mercy, that I am not afraid of it, nor aſhamed of it. Chriſt died upon the Croſs too; O ſanctifie this affliction; make me truly ſenſible of thy mercy, and let me have an aſſurance of thee. Hear thy ſervant in diſtreſs; for thou haſt promiſed, that if a ſinner knock, the door ſhall be opened; if he ſeek, he ſhall finde, Lord, I do beg in the Bowels of thy Son Jeſus Chriſt, for thy mercies ſake, for thy go<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dneſs ſake, for all thy attributes ſake, that thou would receive this poor ſoul of mine; for thy Son Chriſt Jeſus ſake, who hath taught me further to ſay, <hi>Our Father which art,</hi> &amp;c.</p>
+               </body>
+            </floatingText>
+            <stage>
+               <hi>Here Mr.</hi> Weldan, <hi>the Ordinary of Newgate, joyned with him in Prayer.</hi>
+            </stage>
+            <sp>
+               <speaker>Mr. <hi>Ordinary.</hi>
+               </speaker>
+               <p>The Lord Jeſus have mercy upon thee.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>Mr. Sheriffs<g ref="char:punc">▪</g> God be with ye: Pray remember my duty and reſpects to my Lord Major, and to all the Aldermen, and to all their Families.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>
+                  <hi>Executioner</hi> I charge you meddle not with my Cloaths.</p>
+            </sp>
+            <sp>
+               <speaker>Serjeants.</speaker>
+               <p>Col. <hi>Turner,</hi> we'll take care of them.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>Lord, I am aſſured to be with thee in glory; I do relie and depend, all in all, upon Chriſt: Refuſe not my ſoul at the laſt hour<g ref="char:punc">▪</g> I have none in Heaven, nor none in Earth, nor any thing but thee to relie upon; and therefore into thy hands, both now, and for ever, I commit my ſoul, my body, my ſpirit, in ſure and certain hopes of a joyful Reſurrection at the day of Judgment where I muſt appear and give account for my ſins; but Jeſus Chriſt hath waſhed them away in his Blood. Pray Doctor, let me beg you to read th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe Verſes in the Second of the <hi>Heb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ews,</hi> to comfort me; being the 14, 15, 16, 17, and 18, Verſes. <hi>For as much then as the children are partakers of fleſh and blood; he alſo, himſelf likewiſe took part of the ſame, that through death he might deſtroy him that had the power of death, that is th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> devil; and deliver them who through fear of death, were all their life-time ſub<g ref="char:EOLhyphen"/>ject to bondage. For verily be took not on him the nature of A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gels; but he took on him the Seed of Abraham. Wherefore in all things it behoved him to be made like unto his brethren, that he might be a me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ciful and faithful High-Prieſt, in things pertaining to God, to make reconciliation
+<pb n="13" facs="tcp:38082:8"/>
+for the ſins of the people: For in that he himſelf hath ſuffered, being tempted, he is able to ſuccor them that are tempted.</hi>
+               </p>
+               <stage>After this he gave Forty ſhillings to a Miniſter, to be given to the poor of that Pariſh, and Eighteen ſhillings ſix pence more, to be de<g ref="char:EOLhyphen"/>livered to his Wife, to be given to his young ſons School Maſter.</stage>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>Mr <hi>Jackson,</hi> God be with you: Remember me to my Landlord, and all there. My two children, I hope, will be freed. Mr. Sheriff, muſt I hang all day?</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Rich. Ford.</hi>
+               </speaker>
+               <p>You will be cut down, as ſoon as you are dead.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>Pray tell me true, Mr. Sheriff.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Rich. Ford.</hi>
+               </speaker>
+               <p>You will not hang above half an hour.</p>
+            </sp>
+            <stage>Thereupon he directed the Executioner to take off his Halter from his ſhoulders; and afterwards taking it in his hand, kiſſes it, and put it on his neck himſelf: Then after he had fitted his Cap, and put it on, he went out of the Cart upon the Ladder. The Executioner tied him up<g ref="char:punc">▪</g> and pulling the Rope a little,</stage>
+            <sp>
+               <speaker>ſays <hi>Turner,</hi>
+               </speaker>
+               <p>What, doſt thou mean to choak me? Pray fellow give me more Rope; What a ſimple fellow is this! How long have you been Executioner, that you know not yet how to put the knot?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Secker,</hi>
+               </speaker>
+               <p>Miniſter, out of a Window near. Mr. <hi>Turner,</hi> have you remembred thoſe four things I ſpake to you of?</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>I have done them.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Secker.</hi>
+               </speaker>
+               <p>I truſt this hour of heavineſs, will be an hour of hap<g ref="char:EOLhyphen"/>pineſs.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>I am aſſured of it.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Secker.</hi>
+               </speaker>
+               <p>A living Chriſt in a dying hour, is the beſt of all. The Lord be with you, and the Lord carry your ſoul ſafe thorow the jaws of death, to the joys of life.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>I doubt not, but through a dark cloud, I ſhall ſee a bright Saviour. <hi>Executioner,</hi> look ye turn me not off, till you have the ſign from me, which ſhall be by laying my right hand on my left ſhoulder. The Lord God forgive thee, I do.</p>
+               <stage>In the midſt of ſome private Ejaculations, offering to pull down his Cap, he eſpied a Gentlewoman at a Window nigh, kiſſed his hand, ſaid,</stage>
+               <p>
+                  <hi>Your ſervant Miſtreſs.</hi>
+               </p>
+               <stage>—His Cap being pulled down, he lifted up his hands, and ſaid,</stage>
+               <p>I diſclaim any deſert of mine own, there is nothing in me; look upon me through Jeſus Chriſt. Lord Jeſus receive my ſoul;</p>
+               <stage>and thereupon giving the ſign, the Executioner turned him off. And after ſome ſhort time, he was cut down, and his body conveyed to a houſe near, there to reſt for a ſpace, till they pro<g ref="char:EOLhyphen"/>vided for him decent burial,</stage>
+            </sp>
+            <pb facs="tcp:38082:9"/>
+            <closer/>
+            <postscript>
+               <p>The confluence of people from the Gaol, to the place of Execu<g ref="char:EOLhyphen"/>tion, was very great, beyond the memory of any upon the like occa<g ref="char:EOLhyphen"/>ſion.</p>
+               <p>During his impriſonment, and to the laſt breath of life, his carriage was very undaunted.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>An Advertiſement.</head>
+            <p>THere is now in the Preſs, ready to be publiſhed, An Exact Rela<g ref="char:EOLhyphen"/>tion of the Life and Converſation of Col. <hi>Turner,</hi> as it was im<g ref="char:EOLhyphen"/>parted by himſelf to an intimate friend, as a full ſatisfaction to the world of his Actions and Deportment. Whereunto is added, the man<g ref="char:EOLhyphen"/>ner of his Execution; lively repreſented in a Copper Plate, in Quar<g ref="char:EOLhyphen"/>to, the price 6 <hi>d.</hi> Sold by <hi>Nath. Brook</hi> and <hi>Hen. Marſh;</hi> at the Angel in Cornhil, and the Prince's Arms in Chancery-lane.</p>
+            <p>☞ The Second Part of the New Survey of the Turkiſh Empire, containing, firſt, the extent of his Dominions, when, and by whom con<g ref="char:EOLhyphen"/>quered; ſecondly, an account of the Tartars; thirdly, the life of <hi>Mahomet</hi> the Impoſtor; fourthly, their Militia; fifthly, their Go<g ref="char:EOLhyphen"/>vernment, Civil and Eccleſiaſtical; ſixthly, the continuation of the Hiſtory. Being the moſt abſolute and compleateſt piece that ever was written of that Nation. Sold by <hi>Henry Marſh.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>An Advertiſement of Remark.</head>
+            <p>THe true and impartial Account of the Arraignment, Tryal, Exami<g ref="char:EOLhyphen"/>nation, Confeſſion, and Condemnation of Col. <hi>James Turner,</hi> for breaking open the Houſe of <hi>Francis Tryan,</hi> Merchant in <hi>Limeſtreet, London.</hi> With the ſeveral Tryals and Examinations of <hi>John Turner, William Turner, Mary Turner,</hi> and <hi>Ely Turner,</hi> Confederates. At Juſtice-Hall in the Old-Baily, <hi>London,</hi> the 15, 16 and 19 of <hi>January,</hi> 1663.</p>
+            <p>Sold by <hi>Nathaniel Brook,</hi> and <hi>Henry Marſh.</hi> Price 1 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="license">
+            <p>Licenced by <hi>Roger L'Eſtrange.</hi>
+            </p>
+            <pb facs="tcp:38082:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
